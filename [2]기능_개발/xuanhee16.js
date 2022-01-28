@@ -1,3 +1,4 @@
+
 function solution(progresses, speeds) {
   //하루에 한번씩 speeds만큼 progressess 증가
   //progresses가 비어있을 때 까지 반복
